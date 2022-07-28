@@ -9,7 +9,7 @@ https://forum.micropython.org/viewtopic.php?f=18&t=4725&start=10#p69069
 
 If you are interested in this, you should read the whole thread, as it is very interesting and contains the information that got me started.
 
-The queue implementation was taken from jaycosaur:
+The queue implementation was taken from [jaycosaur](https://github.com/jaycosaur):
 https://github.com/jaycosaur/micropython-queue
 
 The RamDisk code was taken from micropython official documentation.
