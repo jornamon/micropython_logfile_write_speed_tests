@@ -13,7 +13,7 @@ import sdcard
 
 ROWS = const(500)				# Number of sample cycles
 COLUMNS = const(50)				# Number of data values generated each sample cycle
-SENSOR_DELAY = const(10)		# Sample period. The delay each sampling loop introduces
+SENSOR_DELAY = const(20)		# Sample period. The delay each sampling loop introduces
 CORE0_DELAY = const(3)			# Small delay in core0 loop
 GC_FREQ = const(999999)         # Execute gc.collect() every X samples. For no explicit call to gc.collect use GC_FREQ > ROWS
 
